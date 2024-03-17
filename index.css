@@ -1,0 +1,82 @@
+.container{
+display: flex;
+font-size: 30px;
+}
+.result{
+  width: 250px;
+    height: 200px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(168, 164, 28);
+    position: relative;
+top: 33px;
+left: 40px;
+  
+}
+
+
+.your{
+width: 200px;
+height: 200px;
+background-color: aqua;
+
+display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+}
+.winner{
+    
+        width: 270px;
+        height: 200px;
+        background-color: aqua;
+        
+        display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 30px;
+
+
+}
+
+.com{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(168, 164, 28);
+    margin: 30px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    button{
+width: 140px;
+height: 40px;
+font-size: 19px;
+
+    }
+  .y{
+width: 160px;
+height: 30px;
+background-color: aqua;
+position: relative;
+top: -223px;
+left: 40px;
+font-size: 23px;
+  }  
+
+  .c{
+    width: 230px;
+    height: 30px;
+    background-color:  rgb(168, 164, 28);
+    position: relative;
+    top: -253px;
+    left: 295px;
+    font-size: 23px;
+    z-index: 1;
+      }  
+    
+
